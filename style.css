@@ -37,6 +37,7 @@
   height: 20vh;
   background-color: black;
   margin-top: 5px;
+  box-sizing: border-box;
 }
 
 .container6 {
@@ -49,4 +50,5 @@
   width: 10.5vw;
   height: 10.5vw;
   margin-top: 5px;
+  box-sizing: border-box;
 }
